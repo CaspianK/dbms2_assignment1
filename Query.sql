@@ -85,12 +85,12 @@ SELECT
 DECLARE @Unemp_1991 FLOAT, @Unemp_2019 FLOAT, @Peak_Year SMALLINT,
 		@Peak_Val FLOAT, @Min_Year SMALLINT, @Min_Val FLOAT;
 SET @Unemp_1991 = (
-SELECT (SUM(Value_Data) / 2) FROM EmploymentStats
+SELECT AVG(Value_Data) FROM EmploymentStats
 WHERE Indicator LIKE 'Unemployment%'
 AND Year_ID = 1991
 )
 SET @Unemp_2019 = (
-SELECT (SUM(Value_Data) / 2) FROM EmploymentStats
+SELECT AVG(Value_Data) FROM EmploymentStats
 WHERE Indicator LIKE 'Unemployment%'
 AND Year_ID = 2019
 )
@@ -111,7 +111,8 @@ WHERE Indicator LIKE 'Unemployment%'
 AND Value_Data = @Min_Val
 )
 PRINT CONCAT('Unemployment rate has increased by a factor of ', @Unemp_2019 / @Unemp_1991,
-' since Kazakhstan gained its independence, having the peak value of ', @Peak_Val,
+' since Kazakhstan gained its independence,
+having the peak value of ', @Peak_Val,
 '% in ', @Peak_Year, ' and the minimum value of ', @Min_Val, '% in ', @Min_Year, '.')
 
 --#2
@@ -147,3 +148,5 @@ AND Year_ID = 2006
 PRINT CONCAT('During the period of 1996-2006, percentage of child laber has
 been decreased by a factor of ', @Children_1996 / @Children_2006, ', from ', 
 @Children_1996, '% to ', @Children_2006, '%.')
+
+select count(*) from EmploymentStats
