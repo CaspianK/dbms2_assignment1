@@ -1,0 +1,6082 @@
+[
+  {
+    "Country Name": "#country+name",
+    "Country ISO3": "#country+code",
+    "Year": "#date+year",
+    "Indicator Name": "#indicator+name",
+    "Indicator Code": "#indicator+code",
+    "Value": "#indicator+value+num"
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Literacy rate youth (ages 15-24) gender parity index (GPI)",
+    "Indicator Code": "SE.ADT.1524.LT.FM.ZS",
+    "Value": 0.99911
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Literacy rate youth (ages 15-24) gender parity index (GPI)",
+    "Indicator Code": "SE.ADT.1524.LT.FM.ZS",
+    "Value": 1.00061
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Literacy rate youth (ages 15-24) gender parity index (GPI)",
+    "Indicator Code": "SE.ADT.1524.LT.FM.ZS",
+    "Value": 1.000589967
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1989,
+    "Indicator Name": "Literacy rate youth (ages 15-24) gender parity index (GPI)",
+    "Indicator Code": "SE.ADT.1524.LT.FM.ZS",
+    "Value": 0.994499981
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.0172
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.0166
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00264
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00178
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00078
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.0028
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00473
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00549
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00522
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99973
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99699
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99647
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99909
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99937
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00028
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99985
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99515
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.99379
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.00353
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 0.996330023
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.012050033
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.005740047
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.004879951
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.010959983
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.020239949
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.072020054
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.071509957
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.062739968
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "School enrollment primary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRIM.FM.ZS",
+    "Value": 1.064669967
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.01219
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.01248
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.01621
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.02092
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.01526
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.0127
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.00756
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.00605
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.00502
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 0.99651
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.03446
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.005920053
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.044280052
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.079360008
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "School enrollment primary and secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.PRSC.FM.ZS",
+    "Value": 1.054929972
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.00813
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.00918
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.02635
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.03478
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.02521
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.01926
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.00951
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.00685
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.00541
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 0.99542
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.05354
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.01188004
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.066390038
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.133579969
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "School enrollment secondary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.SECO.FM.ZS",
+    "Value": 1.045160055
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.24529
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.26451
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.23713
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.27715
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.26257
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.26744
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.27194
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.26012
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.26858
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.38691
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.18838
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.171300054
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.270149946
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.288370013
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "School enrollment tertiary (gross) gender parity index (GPI)",
+    "Indicator Code": "SE.ENR.TERT.FM.ZS",
+    "Value": 1.279700041
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 27.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 27.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 27.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 26.2
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 25.2
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 24.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 24.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 17.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 17.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 17.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 15.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 15.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 10.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 13.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Proportion of seats held by women in national parliaments (%)",
+    "Indicator Code": "SG.GEN.PARL.ZS",
+    "Value": 13.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Prevalence of HIV female (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.FE.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Prevalence of HIV male (% ages 15-24)",
+    "Indicator Code": "SH.HIV.1524.MA.ZS",
+    "Value": 0.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 25.26000072
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 25.16699976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 25.07299989
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 24.98000084
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 24.85299948
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 26.57200006
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 28.50499931
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 29.93799978
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 31.5669995
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 32.85600072
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 33.09300184
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 33.91400051
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 34.28099918
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 35.48899949
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 37.35799962
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 38.53199911
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 41.20000041
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 42.67800176
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.43599856
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.5890007
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.83900023
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.86799908
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.73099816
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.69500101
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.53600013
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 44.08700097
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 43.67800105
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 43.31599939
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Vulnerable employment female (% of female employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.FE.ZS",
+    "Value": 43.05799997
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 26.52200017
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 26.4790009
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 26.43699918
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 26.40600095
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 26.33100019
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 27.40900025
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 28.62899971
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 28.52900052
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 29.22699994
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 29.26000029
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 29.56299925
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 30.07800084
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 31.43499982
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 31.82399917
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 31.65599954
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 33.28099942
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 33.96600145
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 33.84200001
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 35.89100099
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 36.08499914
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 36.37400013
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 36.45899981
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 36.36700189
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 36.38100082
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 36.31199843
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 35.96699828
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 35.62800139
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 35.33299994
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Vulnerable employment male (% of male employment) (modeled ILO estimate)",
+    "Indicator Code": "SL.EMP.VULN.MA.ZS",
+    "Value": 35.16000181
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment female (% of female children ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.FE.ZS",
+    "Value": 2.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment female (% of female children ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.FE.ZS",
+    "Value": 29.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment male (% of male children ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.MA.ZS",
+    "Value": 4.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment male (% of male children ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.MA.ZS",
+    "Value": 30.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment study and work female (% of female children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.SW.FE.ZS",
+    "Value": 97.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment study and work female (% of female children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.SW.FE.ZS",
+    "Value": 97.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment study and work male (% of male children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.SW.MA.ZS",
+    "Value": 98.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment study and work male (% of male children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.SW.MA.ZS",
+    "Value": 93.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment study and work (% of children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.SW.ZS",
+    "Value": 98.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment study and work (% of children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.SW.ZS",
+    "Value": 95.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment work only female (% of female children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.WK.FE.ZS",
+    "Value": 2.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment work only female (% of female children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.WK.FE.ZS",
+    "Value": 2.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment work only male (% of male children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.WK.MA.ZS",
+    "Value": 1.2
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment work only male (% of male children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.WK.MA.ZS",
+    "Value": 6.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment work only (% of children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.WK.ZS",
+    "Value": 1.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment work only (% of children in employment ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.WK.ZS",
+    "Value": 4.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Children in employment total (% of children ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.ZS",
+    "Value": 3.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Children in employment total (% of children ages 7-14)",
+    "Indicator Code": "SL.TLF.0714.ZS",
+    "Value": 29.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 39.17599869
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 40.79299927
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 42.17599869
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 43.35100174
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 43.55400085
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 41.54899979
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 39.26900101
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 40.33800125
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 41.29600143
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 42.18700027
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 43.05599976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 43.2179985
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 43.64899826
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 44.25899887
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 45.1269989
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 46.08000183
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 47.31700134
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 48.02500153
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 50.06399918
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 52.67399979
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 54.56399918
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 55.27000046
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 55.22399902
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 55.72200012
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 55.98199844
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 54.71900177
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 52.48099899
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 50.80799866
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 49.92900085
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.FE.ZS",
+    "Value": 47.86600113
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 45.93000031
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 47.57400131
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 48.93099976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 50.19800186
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 50.34000015
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 48.5379982
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 46.34400177
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 46.92200089
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 47.41699982
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 47.91899872
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 49.01100159
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 49.05400085
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 49.93099976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 50.89799881
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 51.99900055
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 53.07300186
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 54.03699875
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 54.54899979
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 56.13800049
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 58.13000107
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 59.58300018
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 60.1969986
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 60.29999924
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 60.73600006
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 60.94599915
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 60.06200027
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 58.3429985
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 56.90299988
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 56.06900024
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.MA.ZS",
+    "Value": 54.24200058
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 42.62900162
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 44.25600052
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 45.61999893
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 46.83499908
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 46.99700165
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 45.08399963
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 42.83499908
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 43.64500046
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 44.36199951
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 45.05400085
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 46.03699875
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 46.14400101
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 46.80599976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 47.60400009
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 48.59899902
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 49.61999893
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 50.72600174
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 51.34000015
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 53.15499878
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 55.45199966
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 57.11399841
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 57.77099991
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 57.79999924
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 58.26900101
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 58.50799942
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 57.44300079
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 55.47600174
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 53.92699814
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 53.07500076
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.1524.ZS",
+    "Value": 51.13299942
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.71800232
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.73400116
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.60900116
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.42700195
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.2480011
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.41100311
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.34300232
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.16600037
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.9940033
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.88400269
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.72699738
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.45400238
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.14199829
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.83899689
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.4980011
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.05400085
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.56600189
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.58200073
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.51999664
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.58499908
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.70899963
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.81400299
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.89700317
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.01699829
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 73.04799652
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.91799927
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.6969986
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.50499725
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.36199951
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.FE.ZS",
+    "Value": 72.27100372
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.80000305
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.84899902
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.72699738
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.58300018
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.25299835
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.96800232
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.4260025
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.11000061
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.83599854
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.66400146
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.27899933
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.43000031
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.39499664
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.40100098
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.41600037
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.36100006
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.56500244
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.52400208
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.74299622
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.09600067
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.4469986
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.72799683
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.97200012
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.27500153
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.45200348
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 82.30400085
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.89900208
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.51699829
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 81.27100372
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.MA.ZS",
+    "Value": 80.8730011
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 78.13300323
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 78.16200256
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 78.03700256
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.87200165
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.6210022
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.56600189
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.26799774
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.02400208
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.8030014
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.66300201
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.39499664
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.84300232
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.66500092
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.51200104
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.34300232
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.08399963
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.44200134
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.42500305
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.49500275
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.69799805
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.94000244
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.14199829
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.31800079
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.54199982
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.65699768
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.52500153
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 77.21700287
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.93399811
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.73999786
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.ACTI.ZS",
+    "Value": 76.49500275
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 64.83100128
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.14499664
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.33499908
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.41000366
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.41000366
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.56700134
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.48799896
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.41200256
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.35600281
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.35900116
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.12400055
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.63500214
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.15499878
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 64.72699738
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 64.35700226
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 63.94200134
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 64.6760025
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.09799957
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.28600311
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.55699921
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.66200256
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.60700226
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.45200348
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.41400146
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.40000153
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.28199768
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.14499664
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.14499664
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.22799683
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.FE.ZS",
+    "Value": 65.27600098
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 76.87000275
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.10600281
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.19400024
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.22699738
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.04299927
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 76.8030014
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 76.30599976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 76.08000183
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.91200256
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.84600067
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.44400024
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.51599884
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.34700012
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.2519989
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.24700165
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.15100098
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 75.60700226
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 76.0019989
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 76.47000122
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.05599976
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.4489975
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.6740036
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.80799866
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 78.0759964
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 78.31099701
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 78.22799683
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.9509964
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.78800201
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.77799988
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate)",
+    "Indicator Code": "SL.TLF.CACT.MA.ZS",
+    "Value": 77.54299927
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 6.211999893
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 5.625
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 5.531000137
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 5.580999851
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 5.570000172
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 5.71999979
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 5.864999771
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 6.491000175
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 6.214000225
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 6.639999866
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 7.546000004
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 7.965000153
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 8.727999687
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 9.286000252
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 9.604999542
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 9.838000298
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 10.40200043
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 11.20300007
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 12.04500008
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 14.39299965
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 15.02700043
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 14.64400005
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 14.55000019
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 14.42000008
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 12.2329998
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 8.569999695
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 1.496000051
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 1.389000058
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Unemployment female (% of female labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.FE.ZS",
+    "Value": 1.271999955
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2019,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.684000015
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.188000202
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.304999828
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.375
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.326000214
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.434000015
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.565999985
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.144000053
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.603000164
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 4.938000202
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 5.59499979
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 5.340000153
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 5.846000195
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 6.354000092
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 6.71999979
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 7.028999805
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 7.222000122
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 7.525000095
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 8.876000404
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 11.17199993
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 11.96399975
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 11.69499969
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 11.56099987
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 11.59700012
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 9.81799984
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 6.586999893
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 0.753000021
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 0.638999999
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Unemployment male (% of male labor force) (modeled ILO estimate)",
+    "Indicator Code": "SL.UEM.TOTL.MA.ZS",
+    "Value": 0.555000007
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 574
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 602
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 653
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 708
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 633
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 584
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 564
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 616
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 4406
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 4340
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 4352
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 4285
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 4412
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 7265
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 15844
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 15831
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 20610
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 19531
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 20574
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 14795
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 8338
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 15577
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 15577
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 15561
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 5030
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Refugee population by country or territory of asylum",
+    "Indicator Code": "SM.POP.REFG",
+    "Value": 5000
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2018,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2529
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2386
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2364
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2267
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2224
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2123
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 3571
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 3500
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 3632
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 3744
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 4825
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 5235
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 7376
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 4316
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 6121
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 6559
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 6315
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2803
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2537
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 9057
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 20459
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 40774
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 40163
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 139
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 27
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 2
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Refugee population by country or territory of origin",
+    "Indicator Code": "SM.POP.REFG.OR",
+    "Value": 1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 29.75
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 30.062
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 30.374
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 30.686
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 30.998
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 31.31
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 30.6586
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 30.0072
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 29.3558
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 28.7044
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 28.053
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 28.2678
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 28.4826
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 28.6974
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 28.9122
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 29.127
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 31.7192
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 34.3114
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 36.9036
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 39.4958
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 42.088
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 44.417
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 46.746
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 49.075
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 51.404
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 53.733
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 52.2322
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 50.7314
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1989,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 49.2306
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1988,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 47.7298
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1987,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 46.229
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1986,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 44.8578
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1985,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 43.4866
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1984,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 42.1154
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1983,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 40.7442
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1982,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 39.373
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1981,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 38.7658
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1980,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 38.1586
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1979,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 37.5514
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1978,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 36.9442
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1977,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 36.337
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1976,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 36.0514
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1975,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 35.7658
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1974,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 35.4802
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1973,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 35.1946
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1972,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 34.909
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1971,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 34.7186
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1970,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 34.5282
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1969,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 34.3378
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1968,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 34.1474
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1967,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 33.957
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1966,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 35.7176
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1965,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 37.4782
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1964,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 39.2388
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1963,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 40.9994
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1962,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 42.76
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1961,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 43.5876
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1960,
+    "Indicator Name": "Adolescent fertility rate (births per 1000 women ages 15-19)",
+    "Indicator Code": "SP.ADO.TFRT",
+    "Value": 44.4152
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 76.92
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 76.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 76.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 75.94
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 75.06
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 74.33
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.81
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.32
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.65
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 70.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 70.2
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 70
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 70.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1989,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1988,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1987,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1986,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1985,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1984,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 73.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1983,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 72.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1982,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1981,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1980,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 71.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1979,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 69.896
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1978,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 69.614
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1977,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 69.354
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1976,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 69.116
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1975,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 68.894
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1974,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 68.68
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1973,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 68.461
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1972,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 68.226
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1971,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 67.968
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1970,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 67.681
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1969,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 67.362
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1968,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 67.015
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1967,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 66.645
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1966,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 66.256
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1965,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 65.851
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1964,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 65.435
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1963,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 65.015
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1962,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 64.594
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1961,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 64.175
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1960,
+    "Indicator Name": "Life expectancy at birth female (years)",
+    "Indicator Code": "SP.DYN.LE00.FE.IN",
+    "Value": 63.761
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2017,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 68.72
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2016,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 68.1
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2015,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 67.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2014,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 67.12
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2013,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 65.75
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2012,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64.84
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2011,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64.16
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2010,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63.51
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2009,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2008,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 61.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2007,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2006,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2005,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2004,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.4
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2003,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2002,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2001,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 2000,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.2
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1999,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1998,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 59
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1997,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 59
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1996,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 58.5
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1995,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 59.7
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1994,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 60.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1993,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 61.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1992,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1991,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1990,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1989,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1988,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64.8
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1987,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64.9
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1986,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64.45
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1985,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1984,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 64
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1983,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 63.15
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1982,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 62.3
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1981,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 61.95
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1980,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 61.6
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1979,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 59.296
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1978,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 59.028
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1977,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 58.784
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1976,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 58.56
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1975,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 58.347
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1974,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 58.137
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1973,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 57.918
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1972,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 57.683
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1971,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 57.423
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1970,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 57.135
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1969,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 56.815
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1968,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 56.468
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1967,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 56.099
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1966,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 55.712
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1965,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 55.31
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1964,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 54.898
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1963,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 54.481
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1962,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 54.062
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1961,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 53.645
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country ISO3": "KAZ",
+    "Year": 1960,
+    "Indicator Name": "Life expectancy at birth male (years)",
+    "Indicator Code": "SP.DYN.LE00.MA.IN",
+    "Value": 53.231
+  }
+]

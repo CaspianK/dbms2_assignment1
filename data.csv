@@ -1,0 +1,761 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Kazakhstan,KAZ,2010,Literacy rate youth (ages 15-24) gender parity index (GPI),SE.ADT.1524.LT.FM.ZS,0.99911
+Kazakhstan,KAZ,2009,Literacy rate youth (ages 15-24) gender parity index (GPI),SE.ADT.1524.LT.FM.ZS,1.00061
+Kazakhstan,KAZ,1999,Literacy rate youth (ages 15-24) gender parity index (GPI),SE.ADT.1524.LT.FM.ZS,1.000589967
+Kazakhstan,KAZ,1989,Literacy rate youth (ages 15-24) gender parity index (GPI),SE.ADT.1524.LT.FM.ZS,0.994499981
+Kazakhstan,KAZ,2018,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.0172
+Kazakhstan,KAZ,2017,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.0166
+Kazakhstan,KAZ,2016,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00264
+Kazakhstan,KAZ,2015,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00178
+Kazakhstan,KAZ,2014,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00078
+Kazakhstan,KAZ,2013,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.0028
+Kazakhstan,KAZ,2012,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00473
+Kazakhstan,KAZ,2011,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00549
+Kazakhstan,KAZ,2010,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00522
+Kazakhstan,KAZ,2009,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99973
+Kazakhstan,KAZ,2008,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99699
+Kazakhstan,KAZ,2007,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99647
+Kazakhstan,KAZ,2006,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99909
+Kazakhstan,KAZ,2005,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99937
+Kazakhstan,KAZ,2004,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00028
+Kazakhstan,KAZ,2003,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99985
+Kazakhstan,KAZ,2002,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99515
+Kazakhstan,KAZ,2001,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.99379
+Kazakhstan,KAZ,2000,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.00353
+Kazakhstan,KAZ,1999,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,0.996330023
+Kazakhstan,KAZ,1998,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.012050033
+Kazakhstan,KAZ,1997,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.005740047
+Kazakhstan,KAZ,1996,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.004879951
+Kazakhstan,KAZ,1995,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.010959983
+Kazakhstan,KAZ,1994,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.020239949
+Kazakhstan,KAZ,1993,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.072020054
+Kazakhstan,KAZ,1992,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.071509957
+Kazakhstan,KAZ,1991,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.062739968
+Kazakhstan,KAZ,1990,School enrollment primary (gross) gender parity index (GPI),SE.ENR.PRIM.FM.ZS,1.064669967
+Kazakhstan,KAZ,2018,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.01219
+Kazakhstan,KAZ,2017,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.01248
+Kazakhstan,KAZ,2016,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.01621
+Kazakhstan,KAZ,2015,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.02092
+Kazakhstan,KAZ,2014,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.01526
+Kazakhstan,KAZ,2013,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.0127
+Kazakhstan,KAZ,2012,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.00756
+Kazakhstan,KAZ,2011,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.00605
+Kazakhstan,KAZ,2010,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.00502
+Kazakhstan,KAZ,2006,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,0.99651
+Kazakhstan,KAZ,2000,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.03446
+Kazakhstan,KAZ,1999,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.005920053
+Kazakhstan,KAZ,1998,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.044280052
+Kazakhstan,KAZ,1997,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.079360008
+Kazakhstan,KAZ,1993,School enrollment primary and secondary (gross) gender parity index (GPI),SE.ENR.PRSC.FM.ZS,1.054929972
+Kazakhstan,KAZ,2018,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.00813
+Kazakhstan,KAZ,2017,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.00918
+Kazakhstan,KAZ,2016,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.02635
+Kazakhstan,KAZ,2015,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.03478
+Kazakhstan,KAZ,2014,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.02521
+Kazakhstan,KAZ,2013,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.01926
+Kazakhstan,KAZ,2012,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.00951
+Kazakhstan,KAZ,2011,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.00685
+Kazakhstan,KAZ,2010,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.00541
+Kazakhstan,KAZ,2006,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,0.99542
+Kazakhstan,KAZ,2000,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.05354
+Kazakhstan,KAZ,1999,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.01188004
+Kazakhstan,KAZ,1998,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.066390038
+Kazakhstan,KAZ,1997,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.133579969
+Kazakhstan,KAZ,1993,School enrollment secondary (gross) gender parity index (GPI),SE.ENR.SECO.FM.ZS,1.045160055
+Kazakhstan,KAZ,2018,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.24529
+Kazakhstan,KAZ,2017,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.26451
+Kazakhstan,KAZ,2016,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.23713
+Kazakhstan,KAZ,2015,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.27715
+Kazakhstan,KAZ,2014,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.26257
+Kazakhstan,KAZ,2013,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.26744
+Kazakhstan,KAZ,2012,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.27194
+Kazakhstan,KAZ,2011,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.26012
+Kazakhstan,KAZ,2010,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.26858
+Kazakhstan,KAZ,2006,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.38691
+Kazakhstan,KAZ,2000,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.18838
+Kazakhstan,KAZ,1999,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.171300054
+Kazakhstan,KAZ,1996,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.270149946
+Kazakhstan,KAZ,1995,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.288370013
+Kazakhstan,KAZ,1994,School enrollment tertiary (gross) gender parity index (GPI),SE.ENR.TERT.FM.ZS,1.279700041
+Kazakhstan,KAZ,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.1
+Kazakhstan,KAZ,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.1
+Kazakhstan,KAZ,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.1
+Kazakhstan,KAZ,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,26.2
+Kazakhstan,KAZ,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,25.2
+Kazakhstan,KAZ,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,24.3
+Kazakhstan,KAZ,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,24.3
+Kazakhstan,KAZ,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17.8
+Kazakhstan,KAZ,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17.8
+Kazakhstan,KAZ,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,17.8
+Kazakhstan,KAZ,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,15.9
+Kazakhstan,KAZ,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,15.9
+Kazakhstan,KAZ,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.4
+Kazakhstan,KAZ,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.8
+Kazakhstan,KAZ,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.4
+Kazakhstan,KAZ,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,13.4
+Kazakhstan,KAZ,2018,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2017,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2016,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2015,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2014,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2013,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2012,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2011,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2010,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2009,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2008,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2007,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2006,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2005,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2004,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2003,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2002,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2001,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2000,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1999,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1998,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1997,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1996,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1995,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1994,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1993,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1992,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1991,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,1990,Prevalence of HIV female (% ages 15-24),SH.HIV.1524.FE.ZS,0.1
+Kazakhstan,KAZ,2018,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2017,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2016,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2015,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2014,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2013,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2012,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2011,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2010,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2009,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2008,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2007,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2006,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2005,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2004,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2003,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2002,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2001,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2000,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1999,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1998,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1997,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1996,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1995,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1994,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1993,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1992,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1991,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,1990,Prevalence of HIV male (% ages 15-24),SH.HIV.1524.MA.ZS,0.1
+Kazakhstan,KAZ,2019,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,25.26000072
+Kazakhstan,KAZ,2018,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,25.16699976
+Kazakhstan,KAZ,2017,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,25.07299989
+Kazakhstan,KAZ,2016,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,24.98000084
+Kazakhstan,KAZ,2015,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,24.85299948
+Kazakhstan,KAZ,2014,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,26.57200006
+Kazakhstan,KAZ,2013,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,28.50499931
+Kazakhstan,KAZ,2012,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,29.93799978
+Kazakhstan,KAZ,2011,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,31.5669995
+Kazakhstan,KAZ,2010,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,32.85600072
+Kazakhstan,KAZ,2009,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,33.09300184
+Kazakhstan,KAZ,2008,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,33.91400051
+Kazakhstan,KAZ,2007,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,34.28099918
+Kazakhstan,KAZ,2006,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,35.48899949
+Kazakhstan,KAZ,2005,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,37.35799962
+Kazakhstan,KAZ,2004,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,38.53199911
+Kazakhstan,KAZ,2003,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,41.20000041
+Kazakhstan,KAZ,2002,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,42.67800176
+Kazakhstan,KAZ,2001,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.43599856
+Kazakhstan,KAZ,2000,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.5890007
+Kazakhstan,KAZ,1999,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.83900023
+Kazakhstan,KAZ,1998,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.86799908
+Kazakhstan,KAZ,1997,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.73099816
+Kazakhstan,KAZ,1996,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.69500101
+Kazakhstan,KAZ,1995,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.53600013
+Kazakhstan,KAZ,1994,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,44.08700097
+Kazakhstan,KAZ,1993,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,43.67800105
+Kazakhstan,KAZ,1992,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,43.31599939
+Kazakhstan,KAZ,1991,Vulnerable employment female (% of female employment) (modeled ILO estimate),SL.EMP.VULN.FE.ZS,43.05799997
+Kazakhstan,KAZ,2019,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,26.52200017
+Kazakhstan,KAZ,2018,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,26.4790009
+Kazakhstan,KAZ,2017,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,26.43699918
+Kazakhstan,KAZ,2016,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,26.40600095
+Kazakhstan,KAZ,2015,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,26.33100019
+Kazakhstan,KAZ,2014,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,27.40900025
+Kazakhstan,KAZ,2013,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,28.62899971
+Kazakhstan,KAZ,2012,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,28.52900052
+Kazakhstan,KAZ,2011,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,29.22699994
+Kazakhstan,KAZ,2010,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,29.26000029
+Kazakhstan,KAZ,2009,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,29.56299925
+Kazakhstan,KAZ,2008,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,30.07800084
+Kazakhstan,KAZ,2007,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,31.43499982
+Kazakhstan,KAZ,2006,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,31.82399917
+Kazakhstan,KAZ,2005,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,31.65599954
+Kazakhstan,KAZ,2004,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,33.28099942
+Kazakhstan,KAZ,2003,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,33.96600145
+Kazakhstan,KAZ,2002,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,33.84200001
+Kazakhstan,KAZ,2001,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,35.89100099
+Kazakhstan,KAZ,2000,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,36.08499914
+Kazakhstan,KAZ,1999,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,36.37400013
+Kazakhstan,KAZ,1998,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,36.45899981
+Kazakhstan,KAZ,1997,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,36.36700189
+Kazakhstan,KAZ,1996,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,36.38100082
+Kazakhstan,KAZ,1995,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,36.31199843
+Kazakhstan,KAZ,1994,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,35.96699828
+Kazakhstan,KAZ,1993,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,35.62800139
+Kazakhstan,KAZ,1992,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,35.33299994
+Kazakhstan,KAZ,1991,Vulnerable employment male (% of male employment) (modeled ILO estimate),SL.EMP.VULN.MA.ZS,35.16000181
+Kazakhstan,KAZ,2006,Children in employment female (% of female children ages 7-14),SL.TLF.0714.FE.ZS,2.8
+Kazakhstan,KAZ,1996,Children in employment female (% of female children ages 7-14),SL.TLF.0714.FE.ZS,29.1
+Kazakhstan,KAZ,2006,Children in employment male (% of male children ages 7-14),SL.TLF.0714.MA.ZS,4.4
+Kazakhstan,KAZ,1996,Children in employment male (% of male children ages 7-14),SL.TLF.0714.MA.ZS,30.3
+Kazakhstan,KAZ,2006,Children in employment study and work female (% of female children in employment ages 7-14),SL.TLF.0714.SW.FE.ZS,97.7
+Kazakhstan,KAZ,1996,Children in employment study and work female (% of female children in employment ages 7-14),SL.TLF.0714.SW.FE.ZS,97.9
+Kazakhstan,KAZ,2006,Children in employment study and work male (% of male children in employment ages 7-14),SL.TLF.0714.SW.MA.ZS,98.8
+Kazakhstan,KAZ,1996,Children in employment study and work male (% of male children in employment ages 7-14),SL.TLF.0714.SW.MA.ZS,93.7
+Kazakhstan,KAZ,2006,Children in employment study and work (% of children in employment ages 7-14),SL.TLF.0714.SW.ZS,98.4
+Kazakhstan,KAZ,1996,Children in employment study and work (% of children in employment ages 7-14),SL.TLF.0714.SW.ZS,95.6
+Kazakhstan,KAZ,2006,Children in employment work only female (% of female children in employment ages 7-14),SL.TLF.0714.WK.FE.ZS,2.3
+Kazakhstan,KAZ,1996,Children in employment work only female (% of female children in employment ages 7-14),SL.TLF.0714.WK.FE.ZS,2.1
+Kazakhstan,KAZ,2006,Children in employment work only male (% of male children in employment ages 7-14),SL.TLF.0714.WK.MA.ZS,1.2
+Kazakhstan,KAZ,1996,Children in employment work only male (% of male children in employment ages 7-14),SL.TLF.0714.WK.MA.ZS,6.3
+Kazakhstan,KAZ,2006,Children in employment work only (% of children in employment ages 7-14),SL.TLF.0714.WK.ZS,1.6
+Kazakhstan,KAZ,1996,Children in employment work only (% of children in employment ages 7-14),SL.TLF.0714.WK.ZS,4.4
+Kazakhstan,KAZ,2006,Children in employment total (% of children ages 7-14),SL.TLF.0714.ZS,3.6
+Kazakhstan,KAZ,1996,Children in employment total (% of children ages 7-14),SL.TLF.0714.ZS,29.7
+Kazakhstan,KAZ,2019,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,39.17599869
+Kazakhstan,KAZ,2018,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,40.79299927
+Kazakhstan,KAZ,2017,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,42.17599869
+Kazakhstan,KAZ,2016,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,43.35100174
+Kazakhstan,KAZ,2015,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,43.55400085
+Kazakhstan,KAZ,2014,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,41.54899979
+Kazakhstan,KAZ,2013,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,39.26900101
+Kazakhstan,KAZ,2012,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,40.33800125
+Kazakhstan,KAZ,2011,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,41.29600143
+Kazakhstan,KAZ,2010,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,42.18700027
+Kazakhstan,KAZ,2009,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,43.05599976
+Kazakhstan,KAZ,2008,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,43.2179985
+Kazakhstan,KAZ,2007,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,43.64899826
+Kazakhstan,KAZ,2006,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,44.25899887
+Kazakhstan,KAZ,2005,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,45.1269989
+Kazakhstan,KAZ,2004,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,46.08000183
+Kazakhstan,KAZ,2003,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,47.31700134
+Kazakhstan,KAZ,2002,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,48.02500153
+Kazakhstan,KAZ,2001,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,50.06399918
+Kazakhstan,KAZ,2000,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,52.67399979
+Kazakhstan,KAZ,1999,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,54.56399918
+Kazakhstan,KAZ,1998,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,55.27000046
+Kazakhstan,KAZ,1997,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,55.22399902
+Kazakhstan,KAZ,1996,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,55.72200012
+Kazakhstan,KAZ,1995,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,55.98199844
+Kazakhstan,KAZ,1994,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,54.71900177
+Kazakhstan,KAZ,1993,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,52.48099899
+Kazakhstan,KAZ,1992,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,50.80799866
+Kazakhstan,KAZ,1991,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,49.92900085
+Kazakhstan,KAZ,1990,Labor force participation rate for ages 15-24 female (%) (modeled ILO estimate),SL.TLF.ACTI.1524.FE.ZS,47.86600113
+Kazakhstan,KAZ,2019,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,45.93000031
+Kazakhstan,KAZ,2018,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,47.57400131
+Kazakhstan,KAZ,2017,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,48.93099976
+Kazakhstan,KAZ,2016,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,50.19800186
+Kazakhstan,KAZ,2015,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,50.34000015
+Kazakhstan,KAZ,2014,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,48.5379982
+Kazakhstan,KAZ,2013,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,46.34400177
+Kazakhstan,KAZ,2012,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,46.92200089
+Kazakhstan,KAZ,2011,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,47.41699982
+Kazakhstan,KAZ,2010,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,47.91899872
+Kazakhstan,KAZ,2009,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,49.01100159
+Kazakhstan,KAZ,2008,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,49.05400085
+Kazakhstan,KAZ,2007,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,49.93099976
+Kazakhstan,KAZ,2006,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,50.89799881
+Kazakhstan,KAZ,2005,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,51.99900055
+Kazakhstan,KAZ,2004,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,53.07300186
+Kazakhstan,KAZ,2003,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,54.03699875
+Kazakhstan,KAZ,2002,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,54.54899979
+Kazakhstan,KAZ,2001,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,56.13800049
+Kazakhstan,KAZ,2000,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,58.13000107
+Kazakhstan,KAZ,1999,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,59.58300018
+Kazakhstan,KAZ,1998,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,60.1969986
+Kazakhstan,KAZ,1997,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,60.29999924
+Kazakhstan,KAZ,1996,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,60.73600006
+Kazakhstan,KAZ,1995,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,60.94599915
+Kazakhstan,KAZ,1994,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,60.06200027
+Kazakhstan,KAZ,1993,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,58.3429985
+Kazakhstan,KAZ,1992,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,56.90299988
+Kazakhstan,KAZ,1991,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,56.06900024
+Kazakhstan,KAZ,1990,Labor force participation rate for ages 15-24 male (%) (modeled ILO estimate),SL.TLF.ACTI.1524.MA.ZS,54.24200058
+Kazakhstan,KAZ,2019,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,42.62900162
+Kazakhstan,KAZ,2018,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,44.25600052
+Kazakhstan,KAZ,2017,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,45.61999893
+Kazakhstan,KAZ,2016,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,46.83499908
+Kazakhstan,KAZ,2015,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,46.99700165
+Kazakhstan,KAZ,2014,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,45.08399963
+Kazakhstan,KAZ,2013,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,42.83499908
+Kazakhstan,KAZ,2012,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,43.64500046
+Kazakhstan,KAZ,2011,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,44.36199951
+Kazakhstan,KAZ,2010,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,45.05400085
+Kazakhstan,KAZ,2009,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,46.03699875
+Kazakhstan,KAZ,2008,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,46.14400101
+Kazakhstan,KAZ,2007,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,46.80599976
+Kazakhstan,KAZ,2006,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,47.60400009
+Kazakhstan,KAZ,2005,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,48.59899902
+Kazakhstan,KAZ,2004,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,49.61999893
+Kazakhstan,KAZ,2003,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,50.72600174
+Kazakhstan,KAZ,2002,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,51.34000015
+Kazakhstan,KAZ,2001,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,53.15499878
+Kazakhstan,KAZ,2000,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,55.45199966
+Kazakhstan,KAZ,1999,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,57.11399841
+Kazakhstan,KAZ,1998,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,57.77099991
+Kazakhstan,KAZ,1997,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,57.79999924
+Kazakhstan,KAZ,1996,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,58.26900101
+Kazakhstan,KAZ,1995,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,58.50799942
+Kazakhstan,KAZ,1994,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,57.44300079
+Kazakhstan,KAZ,1993,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,55.47600174
+Kazakhstan,KAZ,1992,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,53.92699814
+Kazakhstan,KAZ,1991,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,53.07500076
+Kazakhstan,KAZ,1990,Labor force participation rate for ages 15-24 total (%) (modeled ILO estimate),SL.TLF.ACTI.1524.ZS,51.13299942
+Kazakhstan,KAZ,2019,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.71800232
+Kazakhstan,KAZ,2018,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.73400116
+Kazakhstan,KAZ,2017,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.60900116
+Kazakhstan,KAZ,2016,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.42700195
+Kazakhstan,KAZ,2015,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.2480011
+Kazakhstan,KAZ,2014,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.41100311
+Kazakhstan,KAZ,2013,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.34300232
+Kazakhstan,KAZ,2012,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.16600037
+Kazakhstan,KAZ,2011,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.9940033
+Kazakhstan,KAZ,2010,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.88400269
+Kazakhstan,KAZ,2009,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.72699738
+Kazakhstan,KAZ,2008,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.45400238
+Kazakhstan,KAZ,2007,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.14199829
+Kazakhstan,KAZ,2006,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.83899689
+Kazakhstan,KAZ,2005,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.4980011
+Kazakhstan,KAZ,2004,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.05400085
+Kazakhstan,KAZ,2003,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.56600189
+Kazakhstan,KAZ,2002,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.58200073
+Kazakhstan,KAZ,2001,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.51999664
+Kazakhstan,KAZ,2000,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.58499908
+Kazakhstan,KAZ,1999,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.70899963
+Kazakhstan,KAZ,1998,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.81400299
+Kazakhstan,KAZ,1997,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.89700317
+Kazakhstan,KAZ,1996,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.01699829
+Kazakhstan,KAZ,1995,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,73.04799652
+Kazakhstan,KAZ,1994,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.91799927
+Kazakhstan,KAZ,1993,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.6969986
+Kazakhstan,KAZ,1992,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.50499725
+Kazakhstan,KAZ,1991,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.36199951
+Kazakhstan,KAZ,1990,Labor force participation rate female (% of female population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.FE.ZS,72.27100372
+Kazakhstan,KAZ,2019,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.80000305
+Kazakhstan,KAZ,2018,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.84899902
+Kazakhstan,KAZ,2017,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.72699738
+Kazakhstan,KAZ,2016,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.58300018
+Kazakhstan,KAZ,2015,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.25299835
+Kazakhstan,KAZ,2014,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.96800232
+Kazakhstan,KAZ,2013,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.4260025
+Kazakhstan,KAZ,2012,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.11000061
+Kazakhstan,KAZ,2011,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.83599854
+Kazakhstan,KAZ,2010,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.66400146
+Kazakhstan,KAZ,2009,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.27899933
+Kazakhstan,KAZ,2008,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.43000031
+Kazakhstan,KAZ,2007,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.39499664
+Kazakhstan,KAZ,2006,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.40100098
+Kazakhstan,KAZ,2005,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.41600037
+Kazakhstan,KAZ,2004,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.36100006
+Kazakhstan,KAZ,2003,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.56500244
+Kazakhstan,KAZ,2002,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.52400208
+Kazakhstan,KAZ,2001,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.74299622
+Kazakhstan,KAZ,2000,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.09600067
+Kazakhstan,KAZ,1999,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.4469986
+Kazakhstan,KAZ,1998,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.72799683
+Kazakhstan,KAZ,1997,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.97200012
+Kazakhstan,KAZ,1996,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.27500153
+Kazakhstan,KAZ,1995,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.45200348
+Kazakhstan,KAZ,1994,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,82.30400085
+Kazakhstan,KAZ,1993,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.89900208
+Kazakhstan,KAZ,1992,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.51699829
+Kazakhstan,KAZ,1991,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,81.27100372
+Kazakhstan,KAZ,1990,Labor force participation rate male (% of male population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.MA.ZS,80.8730011
+Kazakhstan,KAZ,2019,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,78.13300323
+Kazakhstan,KAZ,2018,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,78.16200256
+Kazakhstan,KAZ,2017,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,78.03700256
+Kazakhstan,KAZ,2016,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.87200165
+Kazakhstan,KAZ,2015,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.6210022
+Kazakhstan,KAZ,2014,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.56600189
+Kazakhstan,KAZ,2013,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.26799774
+Kazakhstan,KAZ,2012,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.02400208
+Kazakhstan,KAZ,2011,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.8030014
+Kazakhstan,KAZ,2010,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.66300201
+Kazakhstan,KAZ,2009,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.39499664
+Kazakhstan,KAZ,2008,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.84300232
+Kazakhstan,KAZ,2007,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.66500092
+Kazakhstan,KAZ,2006,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.51200104
+Kazakhstan,KAZ,2005,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.34300232
+Kazakhstan,KAZ,2004,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.08399963
+Kazakhstan,KAZ,2003,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.44200134
+Kazakhstan,KAZ,2002,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.42500305
+Kazakhstan,KAZ,2001,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.49500275
+Kazakhstan,KAZ,2000,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.69799805
+Kazakhstan,KAZ,1999,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.94000244
+Kazakhstan,KAZ,1998,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.14199829
+Kazakhstan,KAZ,1997,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.31800079
+Kazakhstan,KAZ,1996,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.54199982
+Kazakhstan,KAZ,1995,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.65699768
+Kazakhstan,KAZ,1994,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.52500153
+Kazakhstan,KAZ,1993,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,77.21700287
+Kazakhstan,KAZ,1992,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.93399811
+Kazakhstan,KAZ,1991,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.73999786
+Kazakhstan,KAZ,1990,Labor force participation rate total (% of total population ages 15-64) (modeled ILO estimate),SL.TLF.ACTI.ZS,76.49500275
+Kazakhstan,KAZ,2019,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,64.83100128
+Kazakhstan,KAZ,2018,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.14499664
+Kazakhstan,KAZ,2017,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.33499908
+Kazakhstan,KAZ,2016,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.41000366
+Kazakhstan,KAZ,2015,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.41000366
+Kazakhstan,KAZ,2014,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.56700134
+Kazakhstan,KAZ,2013,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.48799896
+Kazakhstan,KAZ,2012,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.41200256
+Kazakhstan,KAZ,2011,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.35600281
+Kazakhstan,KAZ,2010,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.35900116
+Kazakhstan,KAZ,2009,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.12400055
+Kazakhstan,KAZ,2008,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.63500214
+Kazakhstan,KAZ,2007,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.15499878
+Kazakhstan,KAZ,2006,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,64.72699738
+Kazakhstan,KAZ,2005,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,64.35700226
+Kazakhstan,KAZ,2004,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,63.94200134
+Kazakhstan,KAZ,2003,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,64.6760025
+Kazakhstan,KAZ,2002,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.09799957
+Kazakhstan,KAZ,2001,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.28600311
+Kazakhstan,KAZ,2000,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.55699921
+Kazakhstan,KAZ,1999,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.66200256
+Kazakhstan,KAZ,1998,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.60700226
+Kazakhstan,KAZ,1997,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.45200348
+Kazakhstan,KAZ,1996,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.41400146
+Kazakhstan,KAZ,1995,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.40000153
+Kazakhstan,KAZ,1994,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.28199768
+Kazakhstan,KAZ,1993,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.14499664
+Kazakhstan,KAZ,1992,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.14499664
+Kazakhstan,KAZ,1991,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.22799683
+Kazakhstan,KAZ,1990,Labor force participation rate female (% of female population ages 15+) (modeled ILO estimate),SL.TLF.CACT.FE.ZS,65.27600098
+Kazakhstan,KAZ,2019,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,76.87000275
+Kazakhstan,KAZ,2018,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.10600281
+Kazakhstan,KAZ,2017,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.19400024
+Kazakhstan,KAZ,2016,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.22699738
+Kazakhstan,KAZ,2015,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.04299927
+Kazakhstan,KAZ,2014,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,76.8030014
+Kazakhstan,KAZ,2013,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,76.30599976
+Kazakhstan,KAZ,2012,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,76.08000183
+Kazakhstan,KAZ,2011,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.91200256
+Kazakhstan,KAZ,2010,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.84600067
+Kazakhstan,KAZ,2009,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.44400024
+Kazakhstan,KAZ,2008,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.51599884
+Kazakhstan,KAZ,2007,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.34700012
+Kazakhstan,KAZ,2006,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.2519989
+Kazakhstan,KAZ,2005,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.24700165
+Kazakhstan,KAZ,2004,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.15100098
+Kazakhstan,KAZ,2003,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,75.60700226
+Kazakhstan,KAZ,2002,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,76.0019989
+Kazakhstan,KAZ,2001,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,76.47000122
+Kazakhstan,KAZ,2000,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.05599976
+Kazakhstan,KAZ,1999,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.4489975
+Kazakhstan,KAZ,1998,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.6740036
+Kazakhstan,KAZ,1997,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.80799866
+Kazakhstan,KAZ,1996,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,78.0759964
+Kazakhstan,KAZ,1995,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,78.31099701
+Kazakhstan,KAZ,1994,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,78.22799683
+Kazakhstan,KAZ,1993,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.9509964
+Kazakhstan,KAZ,1992,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.78800201
+Kazakhstan,KAZ,1991,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.77799988
+Kazakhstan,KAZ,1990,Labor force participation rate male (% of male population ages 15+) (modeled ILO estimate),SL.TLF.CACT.MA.ZS,77.54299927
+Kazakhstan,KAZ,2019,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,6.211999893
+Kazakhstan,KAZ,2018,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,5.625
+Kazakhstan,KAZ,2017,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,5.531000137
+Kazakhstan,KAZ,2016,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,5.580999851
+Kazakhstan,KAZ,2015,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,5.570000172
+Kazakhstan,KAZ,2014,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,5.71999979
+Kazakhstan,KAZ,2013,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,5.864999771
+Kazakhstan,KAZ,2012,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,6.491000175
+Kazakhstan,KAZ,2011,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,6.214000225
+Kazakhstan,KAZ,2010,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,6.639999866
+Kazakhstan,KAZ,2009,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,7.546000004
+Kazakhstan,KAZ,2008,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,7.965000153
+Kazakhstan,KAZ,2007,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,8.727999687
+Kazakhstan,KAZ,2006,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,9.286000252
+Kazakhstan,KAZ,2005,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,9.604999542
+Kazakhstan,KAZ,2004,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,9.838000298
+Kazakhstan,KAZ,2003,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,10.40200043
+Kazakhstan,KAZ,2002,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,11.20300007
+Kazakhstan,KAZ,2001,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,12.04500008
+Kazakhstan,KAZ,2000,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,14.39299965
+Kazakhstan,KAZ,1999,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,15.02700043
+Kazakhstan,KAZ,1998,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,14.64400005
+Kazakhstan,KAZ,1997,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,14.55000019
+Kazakhstan,KAZ,1996,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,14.42000008
+Kazakhstan,KAZ,1995,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,12.2329998
+Kazakhstan,KAZ,1994,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,8.569999695
+Kazakhstan,KAZ,1993,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,1.496000051
+Kazakhstan,KAZ,1992,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,1.389000058
+Kazakhstan,KAZ,1991,Unemployment female (% of female labor force) (modeled ILO estimate),SL.UEM.TOTL.FE.ZS,1.271999955
+Kazakhstan,KAZ,2019,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.684000015
+Kazakhstan,KAZ,2018,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.188000202
+Kazakhstan,KAZ,2017,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.304999828
+Kazakhstan,KAZ,2016,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.375
+Kazakhstan,KAZ,2015,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.326000214
+Kazakhstan,KAZ,2014,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.434000015
+Kazakhstan,KAZ,2013,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.565999985
+Kazakhstan,KAZ,2012,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.144000053
+Kazakhstan,KAZ,2011,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.603000164
+Kazakhstan,KAZ,2010,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,4.938000202
+Kazakhstan,KAZ,2009,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,5.59499979
+Kazakhstan,KAZ,2008,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,5.340000153
+Kazakhstan,KAZ,2007,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,5.846000195
+Kazakhstan,KAZ,2006,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,6.354000092
+Kazakhstan,KAZ,2005,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,6.71999979
+Kazakhstan,KAZ,2004,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,7.028999805
+Kazakhstan,KAZ,2003,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,7.222000122
+Kazakhstan,KAZ,2002,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,7.525000095
+Kazakhstan,KAZ,2001,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,8.876000404
+Kazakhstan,KAZ,2000,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,11.17199993
+Kazakhstan,KAZ,1999,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,11.96399975
+Kazakhstan,KAZ,1998,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,11.69499969
+Kazakhstan,KAZ,1997,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,11.56099987
+Kazakhstan,KAZ,1996,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,11.59700012
+Kazakhstan,KAZ,1995,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,9.81799984
+Kazakhstan,KAZ,1994,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,6.586999893
+Kazakhstan,KAZ,1993,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,0.753000021
+Kazakhstan,KAZ,1992,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,0.638999999
+Kazakhstan,KAZ,1991,Unemployment male (% of male labor force) (modeled ILO estimate),SL.UEM.TOTL.MA.ZS,0.555000007
+Kazakhstan,KAZ,2018,Refugee population by country or territory of asylum,SM.POP.REFG,574
+Kazakhstan,KAZ,2017,Refugee population by country or territory of asylum,SM.POP.REFG,602
+Kazakhstan,KAZ,2016,Refugee population by country or territory of asylum,SM.POP.REFG,653
+Kazakhstan,KAZ,2015,Refugee population by country or territory of asylum,SM.POP.REFG,708
+Kazakhstan,KAZ,2014,Refugee population by country or territory of asylum,SM.POP.REFG,633
+Kazakhstan,KAZ,2013,Refugee population by country or territory of asylum,SM.POP.REFG,584
+Kazakhstan,KAZ,2012,Refugee population by country or territory of asylum,SM.POP.REFG,564
+Kazakhstan,KAZ,2011,Refugee population by country or territory of asylum,SM.POP.REFG,616
+Kazakhstan,KAZ,2010,Refugee population by country or territory of asylum,SM.POP.REFG,4406
+Kazakhstan,KAZ,2009,Refugee population by country or territory of asylum,SM.POP.REFG,4340
+Kazakhstan,KAZ,2008,Refugee population by country or territory of asylum,SM.POP.REFG,4352
+Kazakhstan,KAZ,2007,Refugee population by country or territory of asylum,SM.POP.REFG,4285
+Kazakhstan,KAZ,2006,Refugee population by country or territory of asylum,SM.POP.REFG,4412
+Kazakhstan,KAZ,2005,Refugee population by country or territory of asylum,SM.POP.REFG,7265
+Kazakhstan,KAZ,2004,Refugee population by country or territory of asylum,SM.POP.REFG,15844
+Kazakhstan,KAZ,2003,Refugee population by country or territory of asylum,SM.POP.REFG,15831
+Kazakhstan,KAZ,2002,Refugee population by country or territory of asylum,SM.POP.REFG,20610
+Kazakhstan,KAZ,2001,Refugee population by country or territory of asylum,SM.POP.REFG,19531
+Kazakhstan,KAZ,2000,Refugee population by country or territory of asylum,SM.POP.REFG,20574
+Kazakhstan,KAZ,1999,Refugee population by country or territory of asylum,SM.POP.REFG,14795
+Kazakhstan,KAZ,1998,Refugee population by country or territory of asylum,SM.POP.REFG,8338
+Kazakhstan,KAZ,1997,Refugee population by country or territory of asylum,SM.POP.REFG,15577
+Kazakhstan,KAZ,1996,Refugee population by country or territory of asylum,SM.POP.REFG,15577
+Kazakhstan,KAZ,1995,Refugee population by country or territory of asylum,SM.POP.REFG,15561
+Kazakhstan,KAZ,1994,Refugee population by country or territory of asylum,SM.POP.REFG,5030
+Kazakhstan,KAZ,1993,Refugee population by country or territory of asylum,SM.POP.REFG,5000
+Kazakhstan,KAZ,2018,Refugee population by country or territory of origin,SM.POP.REFG.OR,2529
+Kazakhstan,KAZ,2017,Refugee population by country or territory of origin,SM.POP.REFG.OR,2386
+Kazakhstan,KAZ,2016,Refugee population by country or territory of origin,SM.POP.REFG.OR,2364
+Kazakhstan,KAZ,2015,Refugee population by country or territory of origin,SM.POP.REFG.OR,2267
+Kazakhstan,KAZ,2014,Refugee population by country or territory of origin,SM.POP.REFG.OR,2224
+Kazakhstan,KAZ,2013,Refugee population by country or territory of origin,SM.POP.REFG.OR,2123
+Kazakhstan,KAZ,2012,Refugee population by country or territory of origin,SM.POP.REFG.OR,3571
+Kazakhstan,KAZ,2011,Refugee population by country or territory of origin,SM.POP.REFG.OR,3500
+Kazakhstan,KAZ,2010,Refugee population by country or territory of origin,SM.POP.REFG.OR,3632
+Kazakhstan,KAZ,2009,Refugee population by country or territory of origin,SM.POP.REFG.OR,3744
+Kazakhstan,KAZ,2008,Refugee population by country or territory of origin,SM.POP.REFG.OR,4825
+Kazakhstan,KAZ,2007,Refugee population by country or territory of origin,SM.POP.REFG.OR,5235
+Kazakhstan,KAZ,2006,Refugee population by country or territory of origin,SM.POP.REFG.OR,7376
+Kazakhstan,KAZ,2005,Refugee population by country or territory of origin,SM.POP.REFG.OR,4316
+Kazakhstan,KAZ,2004,Refugee population by country or territory of origin,SM.POP.REFG.OR,6121
+Kazakhstan,KAZ,2003,Refugee population by country or territory of origin,SM.POP.REFG.OR,6559
+Kazakhstan,KAZ,2002,Refugee population by country or territory of origin,SM.POP.REFG.OR,6315
+Kazakhstan,KAZ,2001,Refugee population by country or territory of origin,SM.POP.REFG.OR,2803
+Kazakhstan,KAZ,2000,Refugee population by country or territory of origin,SM.POP.REFG.OR,2537
+Kazakhstan,KAZ,1999,Refugee population by country or territory of origin,SM.POP.REFG.OR,9057
+Kazakhstan,KAZ,1998,Refugee population by country or territory of origin,SM.POP.REFG.OR,20459
+Kazakhstan,KAZ,1997,Refugee population by country or territory of origin,SM.POP.REFG.OR,40774
+Kazakhstan,KAZ,1996,Refugee population by country or territory of origin,SM.POP.REFG.OR,40163
+Kazakhstan,KAZ,1995,Refugee population by country or territory of origin,SM.POP.REFG.OR,139
+Kazakhstan,KAZ,1994,Refugee population by country or territory of origin,SM.POP.REFG.OR,27
+Kazakhstan,KAZ,1993,Refugee population by country or territory of origin,SM.POP.REFG.OR,2
+Kazakhstan,KAZ,1992,Refugee population by country or territory of origin,SM.POP.REFG.OR,1
+Kazakhstan,KAZ,2017,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,29.75
+Kazakhstan,KAZ,2016,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,30.062
+Kazakhstan,KAZ,2015,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,30.374
+Kazakhstan,KAZ,2014,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,30.686
+Kazakhstan,KAZ,2013,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,30.998
+Kazakhstan,KAZ,2012,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,31.31
+Kazakhstan,KAZ,2011,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,30.6586
+Kazakhstan,KAZ,2010,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,30.0072
+Kazakhstan,KAZ,2009,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,29.3558
+Kazakhstan,KAZ,2008,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,28.7044
+Kazakhstan,KAZ,2007,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,28.053
+Kazakhstan,KAZ,2006,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,28.2678
+Kazakhstan,KAZ,2005,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,28.4826
+Kazakhstan,KAZ,2004,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,28.6974
+Kazakhstan,KAZ,2003,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,28.9122
+Kazakhstan,KAZ,2002,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,29.127
+Kazakhstan,KAZ,2001,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,31.7192
+Kazakhstan,KAZ,2000,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,34.3114
+Kazakhstan,KAZ,1999,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,36.9036
+Kazakhstan,KAZ,1998,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,39.4958
+Kazakhstan,KAZ,1997,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,42.088
+Kazakhstan,KAZ,1996,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,44.417
+Kazakhstan,KAZ,1995,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,46.746
+Kazakhstan,KAZ,1994,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,49.075
+Kazakhstan,KAZ,1993,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,51.404
+Kazakhstan,KAZ,1992,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,53.733
+Kazakhstan,KAZ,1991,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,52.2322
+Kazakhstan,KAZ,1990,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,50.7314
+Kazakhstan,KAZ,1989,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,49.2306
+Kazakhstan,KAZ,1988,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,47.7298
+Kazakhstan,KAZ,1987,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,46.229
+Kazakhstan,KAZ,1986,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,44.8578
+Kazakhstan,KAZ,1985,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,43.4866
+Kazakhstan,KAZ,1984,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,42.1154
+Kazakhstan,KAZ,1983,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,40.7442
+Kazakhstan,KAZ,1982,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,39.373
+Kazakhstan,KAZ,1981,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,38.7658
+Kazakhstan,KAZ,1980,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,38.1586
+Kazakhstan,KAZ,1979,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,37.5514
+Kazakhstan,KAZ,1978,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,36.9442
+Kazakhstan,KAZ,1977,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,36.337
+Kazakhstan,KAZ,1976,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,36.0514
+Kazakhstan,KAZ,1975,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,35.7658
+Kazakhstan,KAZ,1974,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,35.4802
+Kazakhstan,KAZ,1973,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,35.1946
+Kazakhstan,KAZ,1972,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,34.909
+Kazakhstan,KAZ,1971,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,34.7186
+Kazakhstan,KAZ,1970,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,34.5282
+Kazakhstan,KAZ,1969,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,34.3378
+Kazakhstan,KAZ,1968,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,34.1474
+Kazakhstan,KAZ,1967,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,33.957
+Kazakhstan,KAZ,1966,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,35.7176
+Kazakhstan,KAZ,1965,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,37.4782
+Kazakhstan,KAZ,1964,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,39.2388
+Kazakhstan,KAZ,1963,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,40.9994
+Kazakhstan,KAZ,1962,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,42.76
+Kazakhstan,KAZ,1961,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,43.5876
+Kazakhstan,KAZ,1960,Adolescent fertility rate (births per 1000 women ages 15-19),SP.ADO.TFRT,44.4152
+Kazakhstan,KAZ,2017,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,76.92
+Kazakhstan,KAZ,2016,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,76.6
+Kazakhstan,KAZ,2015,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,76.9
+Kazakhstan,KAZ,2014,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,75.94
+Kazakhstan,KAZ,2013,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,75.06
+Kazakhstan,KAZ,2012,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,74.33
+Kazakhstan,KAZ,2011,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.81
+Kazakhstan,KAZ,2010,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.32
+Kazakhstan,KAZ,2009,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.5
+Kazakhstan,KAZ,2008,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72.4
+Kazakhstan,KAZ,2007,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72.6
+Kazakhstan,KAZ,2006,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72
+Kazakhstan,KAZ,2005,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.8
+Kazakhstan,KAZ,2004,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.65
+Kazakhstan,KAZ,2003,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.5
+Kazakhstan,KAZ,2002,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.5
+Kazakhstan,KAZ,2001,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.3
+Kazakhstan,KAZ,2000,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.1
+Kazakhstan,KAZ,1999,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71
+Kazakhstan,KAZ,1998,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,70.4
+Kazakhstan,KAZ,1997,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,70.2
+Kazakhstan,KAZ,1996,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,70
+Kazakhstan,KAZ,1995,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,70.4
+Kazakhstan,KAZ,1994,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71
+Kazakhstan,KAZ,1993,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.9
+Kazakhstan,KAZ,1992,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72.7
+Kazakhstan,KAZ,1991,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72.9
+Kazakhstan,KAZ,1990,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.1
+Kazakhstan,KAZ,1989,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72.9
+Kazakhstan,KAZ,1988,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.1
+Kazakhstan,KAZ,1987,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.9
+Kazakhstan,KAZ,1986,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.6
+Kazakhstan,KAZ,1985,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.3
+Kazakhstan,KAZ,1984,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,73.3
+Kazakhstan,KAZ,1983,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,72.4
+Kazakhstan,KAZ,1982,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.5
+Kazakhstan,KAZ,1981,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.7
+Kazakhstan,KAZ,1980,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,71.9
+Kazakhstan,KAZ,1979,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,69.896
+Kazakhstan,KAZ,1978,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,69.614
+Kazakhstan,KAZ,1977,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,69.354
+Kazakhstan,KAZ,1976,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,69.116
+Kazakhstan,KAZ,1975,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,68.894
+Kazakhstan,KAZ,1974,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,68.68
+Kazakhstan,KAZ,1973,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,68.461
+Kazakhstan,KAZ,1972,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,68.226
+Kazakhstan,KAZ,1971,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,67.968
+Kazakhstan,KAZ,1970,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,67.681
+Kazakhstan,KAZ,1969,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,67.362
+Kazakhstan,KAZ,1968,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,67.015
+Kazakhstan,KAZ,1967,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,66.645
+Kazakhstan,KAZ,1966,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,66.256
+Kazakhstan,KAZ,1965,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,65.851
+Kazakhstan,KAZ,1964,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,65.435
+Kazakhstan,KAZ,1963,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,65.015
+Kazakhstan,KAZ,1962,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,64.594
+Kazakhstan,KAZ,1961,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,64.175
+Kazakhstan,KAZ,1960,Life expectancy at birth female (years),SP.DYN.LE00.FE.IN,63.761
+Kazakhstan,KAZ,2017,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,68.72
+Kazakhstan,KAZ,2016,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,68.1
+Kazakhstan,KAZ,2015,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,67.5
+Kazakhstan,KAZ,2014,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,67.12
+Kazakhstan,KAZ,2013,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,65.75
+Kazakhstan,KAZ,2012,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64.84
+Kazakhstan,KAZ,2011,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64.16
+Kazakhstan,KAZ,2010,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63.51
+Kazakhstan,KAZ,2009,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63.6
+Kazakhstan,KAZ,2008,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,61.9
+Kazakhstan,KAZ,2007,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.7
+Kazakhstan,KAZ,2006,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.6
+Kazakhstan,KAZ,2005,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.3
+Kazakhstan,KAZ,2004,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.4
+Kazakhstan,KAZ,2003,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.5
+Kazakhstan,KAZ,2002,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.7
+Kazakhstan,KAZ,2001,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.5
+Kazakhstan,KAZ,2000,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.2
+Kazakhstan,KAZ,1999,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.3
+Kazakhstan,KAZ,1998,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,59
+Kazakhstan,KAZ,1997,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,59
+Kazakhstan,KAZ,1996,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,58.5
+Kazakhstan,KAZ,1995,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,59.7
+Kazakhstan,KAZ,1994,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,60.6
+Kazakhstan,KAZ,1993,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,61.8
+Kazakhstan,KAZ,1992,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63
+Kazakhstan,KAZ,1991,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63.3
+Kazakhstan,KAZ,1990,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63.8
+Kazakhstan,KAZ,1989,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63.9
+Kazakhstan,KAZ,1988,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64.8
+Kazakhstan,KAZ,1987,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64.9
+Kazakhstan,KAZ,1986,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64.45
+Kazakhstan,KAZ,1985,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64
+Kazakhstan,KAZ,1984,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,64
+Kazakhstan,KAZ,1983,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,63.15
+Kazakhstan,KAZ,1982,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,62.3
+Kazakhstan,KAZ,1981,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,61.95
+Kazakhstan,KAZ,1980,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,61.6
+Kazakhstan,KAZ,1979,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,59.296
+Kazakhstan,KAZ,1978,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,59.028
+Kazakhstan,KAZ,1977,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,58.784
+Kazakhstan,KAZ,1976,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,58.56
+Kazakhstan,KAZ,1975,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,58.347
+Kazakhstan,KAZ,1974,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,58.137
+Kazakhstan,KAZ,1973,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,57.918
+Kazakhstan,KAZ,1972,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,57.683
+Kazakhstan,KAZ,1971,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,57.423
+Kazakhstan,KAZ,1970,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,57.135
+Kazakhstan,KAZ,1969,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,56.815
+Kazakhstan,KAZ,1968,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,56.468
+Kazakhstan,KAZ,1967,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,56.099
+Kazakhstan,KAZ,1966,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,55.712
+Kazakhstan,KAZ,1965,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,55.31
+Kazakhstan,KAZ,1964,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,54.898
+Kazakhstan,KAZ,1963,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,54.481
+Kazakhstan,KAZ,1962,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,54.062
+Kazakhstan,KAZ,1961,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,53.645
+Kazakhstan,KAZ,1960,Life expectancy at birth male (years),SP.DYN.LE00.MA.IN,53.231
